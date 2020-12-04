@@ -1,0 +1,16 @@
+.bgcolor
+{
+    background: beige;
+}
+.textstyle
+{
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(178, 218, 241);
+}
+.textstyle:hover
+{
+  font-size: 30px;  
+  color: rgb(219, 66, 39);
+}
+<

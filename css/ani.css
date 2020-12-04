@@ -1,0 +1,44 @@
+.bgcolor {
+    background: rgb(75, 3, 3);
+}
+.tstyle {
+    color: rgba(223, 219, 9, 0.404);
+    font-size: 45px;
+    font-weight: bold;
+    font-family: initial;
+    text-shadow:2px 2px rgb(253, 216, 5);
+}
+.pstyle {
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px rgb(192, 18, 114);
+    text-align: center;
+}
+.textfont {
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(238, 232, 232);
+    font-style: normal;
+}
+.tfont{
+    font-size: 25px;
+  
+    color: rgb(238, 232, 232);
+    font-style: normal;
+}
+.hfont{
+    font-size: 35px;
+  
+    color: rgb(240, 205, 48);
+    font-style: normal;
+}
+.sfont
+{
+    font-size: 35px;
+  
+    color: rgb(243, 243, 235);
+    text-shadow: 2px 2px 5px rgb(117, 11, 4);
+    font-style: normal;
+}
+}
